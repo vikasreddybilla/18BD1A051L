@@ -1,0 +1,86 @@
+collection:hospitaldetails
+[
+    {
+        "_id": "5f782a525eeb7e3045a403d8",
+        "hId": "H1",
+        "name": "sunshine hospital",
+        "location": "17.398644,78.434334",
+        "address": "PlotNo. 3-5-874/1 Near,old mla headquaters,hyderguda,hyderabad,telangana 500029",
+        "contactNo": "040-23231380"
+    },
+    {
+        "_id": "5f782a525eeb7e3045a403d9",
+        "hId": "H2",
+        "name": "Yoshoda hospital",
+        "location": "18.273874,98.883774",
+        "address": "PlotNo. 7-9-398/2 Near,old safilguda,hyderabad,telangana 500026",
+        "contactNo": "040-879827384"
+    },
+    {
+        "_id": "5f782a525eeb7e3045a403da",
+        "hId": "H3",
+        "name": "kims hospital",
+        "location": "27.8939849,89.8493827",
+        "address": "PlotNo. 8-9-390/2, dwaraka, rajesthan 507890",
+        "contactNo": "040-89837264"
+    }
+]
+collection:ventilatordetails
+[
+    {
+        "_id": "5f782ca55eeb7e3045a403dc",
+        "hId": "H3",
+        "ventilatorId": "H3V2",
+        "status": "available",
+        "name": "kims hospital"
+    },
+    {
+        "_id": "5f782ca55eeb7e3045a403dd",
+        "hId": "H3",
+        "ventilatorId": "H3V3",
+        "status": "in-maintenance",
+        "name": "kims hospital"
+    },
+    {
+        "_id": "5f782cbf5eeb7e3045a403de",
+        "hId": "H2",
+        "ventilatorId": "H2V1",
+        "status": "occupied",
+        "name": "Yoshoda hospital"
+    },
+    {
+        "_id": "5f782cbf5eeb7e3045a403df",
+        "hId": "H2",
+        "ventilatorId": "H2V2",
+        "status": "available",
+        "name": "Yoshodo hospital"
+    },
+    {
+        "_id": "5f782cbf5eeb7e3045a403e0",
+        "hId": "H2",
+        "ventilatorId": "H2V3",
+        "status": "in-maintenance",
+        "name": "Yoshada hospital"
+    },
+    {
+        "_id": "5f782d165eeb7e3045a403e1",
+        "hId": "H1",
+        "ventilatorId": "H1V1",
+        "status": "occupied",
+        "name": "sunshine hospital"
+    },
+    {
+        "_id": "5f782d165eeb7e3045a403e2",
+        "hId": "H1",
+        "ventilatorId": "H1V2",
+        "status": "available",
+        "name": "sunshine hospital"
+    },
+    {
+        "_id": "5f782d165eeb7e3045a403e3",
+        "hId": "H1",
+        "ventilatorId": "H1V3",
+        "status": "in-maintenance",
+        "name": "sunshine hospital"
+    }
+]
